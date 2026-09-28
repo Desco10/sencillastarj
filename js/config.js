@@ -57,7 +57,7 @@ colores: {
 
 fondo: {
   habilitado: true,
-  imagen: "/assets/images/fondo.png",
+  imagen: "/assets/images/portsenci.png",
 
   // Intensidad de la imagen de fondo
   opacidad: 0.85,
@@ -112,7 +112,7 @@ cristal: {
   },
 
   musica: {
-  archivo: "assets/music/15PRIMAVERASSI.mp3",
+  archivo: "assets/music/tiempovals.mp3",
   autoplayAlAbrir: false,
   volumenInicial: 0.25
 },
