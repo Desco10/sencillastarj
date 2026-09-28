@@ -122,7 +122,7 @@ efectos: {
   particulas: false,
   brillo: true,
   vestido: true,
-  mariposas: true,   
+  mariposas: false,   
 
   intensidadPetalos: 18,
   intensidadMariposas: 6  
