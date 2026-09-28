@@ -113,7 +113,7 @@ cristal: {
 
   musica: {
   archivo: "assets/music/tiempovals.mp3",
-  autoplayAlAbrir: false,
+  autoplayAlAbrir: true,
   volumenInicial: 0.25
 },
 
