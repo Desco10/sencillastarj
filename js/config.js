@@ -1,9 +1,9 @@
 const EVENTO = {
-  quinceanera: "Scarlett",
+  quinceanera: "Mariana",
   edad: 15,
  
     personalizacionInvitados: {
-    habilitada: true,
+    habilitada: false,
     archivo: "invitados.json"
   },
 
@@ -14,7 +14,7 @@ const EVENTO = {
 
     // Imagen de fondo opcional (true / false)
     fondo: {
-      habilitado: true,
+      habilitado: false,
       imagen: "assets/images/vestido-xvrosa.png",
       posicion: "center center",
       opacidad: 1,       // 0 a 1
@@ -113,13 +113,13 @@ cristal: {
 
   musica: {
   archivo: "assets/music/15PRIMAVERASSI.mp3",
-  autoplayAlAbrir: true,
+  autoplayAlAbrir: false,
   volumenInicial: 0.25
 },
 
 efectos: {
-  petalos: true,
-  particulas: true,
+  petalos: false,
+  particulas: false,
   brillo: true,
   vestido: true,
   mariposas: true,   
@@ -128,7 +128,7 @@ efectos: {
   intensidadMariposas: 6  
 },
 
-itinerarioHabilitado: true,
+itinerarioHabilitado: false,
 
 itinerario: [
   {
